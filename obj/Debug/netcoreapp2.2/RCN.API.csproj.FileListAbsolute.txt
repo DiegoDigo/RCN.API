@@ -1,0 +1,6 @@
+C:\dev\meu\dotnet\RCN.API\obj\Debug\netcoreapp2.2\RCN.API.csprojAssemblyReference.cache
+C:\dev\meu\dotnet\RCN.API\obj\Debug\netcoreapp2.2\RCN.API.csproj.CoreCompileInputs.cache
+C:\dev\meu\dotnet\RCN.API\obj\Debug\netcoreapp2.2\RCN.API.RazorAssemblyInfo.cache
+C:\dev\meu\dotnet\RCN.API\obj\Debug\netcoreapp2.2\RCN.API.RazorAssemblyInfo.cs
+C:\dev\meu\dotnet\RCN.API\obj\Debug\netcoreapp2.2\RCN.API.AssemblyInfoInputs.cache
+C:\dev\meu\dotnet\RCN.API\obj\Debug\netcoreapp2.2\RCN.API.AssemblyInfo.cs
